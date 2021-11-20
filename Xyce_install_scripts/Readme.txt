@@ -26,10 +26,10 @@ To run a spice file:
 
 Xyce filename
 
-to plot use python
+to plot use python or any other plotting program
 
 
-************ Verilog A script*************8
+************ Verilog A script**************
 
 Verilog A is used to create a model e.g for a mosfet, resistor or any element
 
